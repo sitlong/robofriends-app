@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title":"sit blog",
+            "body":" i am the greatest man every one shall bow",
+            "authour":"sit",
+            "id": 1
+        },
+        {
+            "title":"tech blog",
+            "body":" i am the greatest man every one shall bow",
+            "authour":"techgod",
+            "id": 2
+        }
+    ]
+}
